@@ -1,4 +1,4 @@
-# Beautymail for Laravel
+# Beautymail for Laravel 9
 
 Beautymail makes it super easy to send beautiful responsive HTML emails. It's made for things like:
 
